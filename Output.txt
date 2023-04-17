@@ -1,0 +1,122 @@
+      \bibitem{1}K. Zhou, T. Y. Ren, Low-carbon technology collaborative innovation in industrial cluster with social exclusion: An evolutionary game theory perspective [J]. Chaos 31(3) (2021) 033124.
+
+      \bibitem{2}H. Zheng, S. Yang, S. Lou, Y. Gao, Y. Feng, Knowledge-based integrated product design framework towards sustainable low-carbon manufacturing [J]. Advanced Engineering Informatics 48 (2021) 101258.
+
+      \bibitem{3}范德成, 张修凡, 市场视角下碳减排联盟对企业低碳技术创新的影响 [J]. 广东社会科学 (04) (2021) 57-66.
+
+. . . . Fan. D. C, X. F. Zhang, The impact of carbon emission reduction alliance on enterprise low-carbon technology innovation from the market perspective [J]. Social Sciences in Guangdong (04) (2021) 57-66.
+
+      \bibitem{4}L. F. He, X. Zhang, Q. P. Wang, C. L. Hu, Game theoretic analysis of supply chain based on mean-variance approach under cap-and-trade policy [J]. Advances in Production Engineering \& Management 13(3) (2018) 333-344.
+
+      \bibitem{5}章德宾, 徐娟, D,Mitchell P, 李崇光. 一种农户与经销商合作的市场风险分担模型 [J]. 中国管理科学 25(07) (2017) 93-101.
+
+. . . . Zhang. D. B, J. Xu, D,Mitchell P, Li C G. Stability research for cooperation between farmers and dealers in China: An analysis of marketing risks sharing [J]. Chinese Journal of Management Science 25(07) (2017) 93-101.
+
+      \bibitem{6}解学梅, 韩宇航, 本土制造业企业如何在绿色创新中实现“华丽转型”？——基于注意力基础观的多案例研究 [J]. 管理世界 38(03) (2022) 76-106.
+
+. . . . Xie. X. M, Y. H. Han, How can local manufacturing enterprises achieve luxuriant transformation in green innovation? A multi-case study based on attention-based view [J]. Journal of Management World 38(03) (2022) 76-106.
+
+      \bibitem{7}S. Yin, B. Z. Li, A stochastic differential game of low carbon technology sharing in collaborative innovation system of superior enterprises and inferior enterprises under uncertain environment [J]. Open Mathematics 16(1) (2018) 607-622.
+
+      \bibitem{8}X. Y. Mao, Y. Wang, Cooperative carbon emission reduction through the Belt and Road Initiative [J]. Environmental Science and Pollution Research 29(7) (2022) 10005-10026.
+
+      \bibitem{9}H. R. Feng, Y. L. Zeng, X. Q. Cai, Q. Qian, Y. W. Zhou, Altruistic profit allocation rules for joint replenishment with carbon cap-and-trade policy [J]. European Journal of Operational Research 290(3) (2021) 956-967.
+
+      \bibitem{10}单而芳, 河流洪水风险控制的合作博弈分析. 中国管理科学. DOI () 10.
+
+. . . . Shan. E. F, The cooperative game approach for river flooding risk. Chinese Journal of Management Science. DOI () 10.
+
+      \bibitem{11}M. H. Zhu, L. Zhao, X. Li, X. L. Wang, Research on green technology marketing model based on dynamic evolutionary game under low-carbon background. Environmental Science and Pollution Research. DOI () 10.
+
+      \bibitem{12}L. Xu, C. X. Wang, Sustainable manufacturing in a closed-loop supply chain considering emission reduction and remanufacturing [J]. Resources 2018, 131 (Conservation and Recycling) 297-304.
+
+      \bibitem{13}M. K. Ouyang, J. F. Li, B. Li, K. Tang, F. H. Huang, Quality cooperation and retail service supply chain model selection: based on the perspective of service quality concerns [J]. Journal of Enterprise Information Management 34(1) (2021) 624-644.
+
+      \bibitem{14}L. S. Shapley, A value for n-person games [A]. In: Kuhn A., Eds. Contributions to the Theory of Games II. Princeton (H. and Tucker) Princeton University Press, 1953.
+
+      \bibitem{15}戴建华, 薛恒新, 基于Shapley值法的动态联盟伙伴企业利益分配策略 [J]. 中国管理科学 (04) (2004) 34-37.
+
+. . . . Dai. J. H, H. X. Xue, The strategy of profit allocation among partners in dynamic alliance based on the Shapley value [J]. Chinese Journal of Management Science (04) (2004) 34-37.
+
+      \bibitem{16}倪宣明, 邱语宁, 赵慧敏, 孙会霞, 基于Shapley值的私募基金市场结构研究 [J]. 系统工程理论与实践 42(04) (2022) 923-936.
+
+. . . . Ni. X. M, Y. N. Qiu, H. M. Zhao, H. X. Sun, Private equity market structure based on Shapley value [J]. Systems Engineering-Theory \& Practice 42(04) (2022) 923-936.
+
+      \bibitem{17}Y. J. Li, J. H. Xie, M. Q. Wang, L. Liang, Super efficiency evaluation using a common platform on a cooperative game [J]. European Journal of Operational Research 255(3) (2016) 884-892.
+
+      \bibitem{18}F. Yang, Y. Dai, Z. J. Ma, A cooperative rich vehicle routing problem in the last-mile logistics industry in rural areas [J]. Transportation Research Part E-Logistics and Transportation Review 141 (2020) 102024.
+
+      \bibitem{19}Q. X. An, Y. Wen, T. Ding, Y. L. Li, Resource sharing and payoff allocation in a three-stage system: Integrating network DEA with the Shapley value method [J]. Omega 85 (2019) 16-25.
+
+      \bibitem{20}Z. W. Xu, Z. X. Peng, L. Yang, X. D. Chen, An improved Shapley value method for a green supply chain income distribution mechanism [J]. International Journal of Environmental Research and Public Health 15(9) (2018) 1976.
+
+      \bibitem{21}H. Dincer, S. Yuksel, L. Martinez, Collaboration enhanced hybrid fuzzy decision-making approach to analyze the renewable energy investment projects [J]. Energy Reports 8 (2022) 377-389.
+
+      \bibitem{22}G. Owen, Values of games with a priori unions [M]//Henn R, Moeschlin O. Mathematical Economics and Game Theory. Berlin Heidelberg () Springer-Verlag.
+
+      \bibitem{23}J. F. Banzhaf, Weighted voting doesn't work: A mathematical analysis [J]. Rutgers Law Review 19 (1964) 317-343.
+
+      \bibitem{24}R. B. Myerson, Graphs and cooperation in games [J]. Mathematics of Operations Research 2(3) (1977) 225-229.
+
+      \bibitem{25}Den. Brink. R. Van, Null or nullifying players: The difference between the Shapley value and equal division solutions [J]. Journal of Economic Theory 136(1) (2007) 767-775.
+
+      \bibitem{26}G. J. Xu, H. Dai, H. B. Shi, Axiomatizations and a noncooperative interpretation of the alpha-CIS value [J]. Asia-Pacific Journal of Operational Research 32(5) (2015) 1550031.
+
+      \bibitem{27}R. a. M. G. Joosten, Dynamics, equilibria, and values [A]; Universiteit Maastricht, 1996. ()
+
+      \bibitem{28}A. Casajus, F. Huettner, Null players, solidarity, and the egalitarian Shapley values [J]. Journal of Mathematical Economics 49(1) (2013) 58-61.
+
+      \bibitem{29}A. S. Nowak, T. Radzik, A solidarity value for n-person transferable utility games [J]. International Journal of Game Theory 23(1) (1994) 43–48.
+
+      \bibitem{30}A. B. Khmelnitskaya, E. B. Yanovskaya, Owen coalitional value without additivity axiom [J]. Mathematical Methods of Operations Research 66(2) (2007) 255-261.
+
+      \bibitem{31}H. P. Young, Monotonic solutions of cooperative games [J]. International Journal of Game Theory 14(2) (1985) 65-72.
+
+      \bibitem{32}A. Casajus, Differential marginality, van den Brink fairness, and the Shapley value [J]. Theory and Decision 71(2) (2011) 163-174.
+
+      \bibitem{33}A. Casajus, K. Yokote, Weak differential marginality and the Shapley value [J]. Journal of Economic Theory 167 (2017) 274-284.
+
+      \bibitem{34}A. Casajus, Sign symmetry vs symmetry: Young's characterization of the Shapley value revisited [J]. Economics Letters 169 (2018) 59-62.
+
+      \bibitem{35}A. Casajus, Weakly balanced contributions and solutions for cooperative games [J]. Operations Research Letters 45(6) (2017) 616-619.
+
+      \bibitem{36}A. Casajus, K. Yokote, Weakly differentially monotonic solutions for cooperative games [J]. International Journal of Game Theory 48(3) (2019) 979-997.
+
+      \bibitem{37}T. Kongo, Similarities in axiomatizations: equal surplus division value and first-price auctions [J]. Review of Economic Design 24(3-4) (2020) 199-213.
+
+      \bibitem{38}W. Z. Li, G. J. Xu, Den. Brink. R. Van, A note on sign symmetry for a subclass of efficient, symmetric, and linear values [J]. Operations Research Letters 50(2) (2022) 133-136.
+
+      \bibitem{39}A. Casajus, Relaxations of symmetry and the weighted Shapley values [J]. Economics Letters 176 (2019) 75-78.
+
+      \bibitem{40}E. Calvo, E. GutiÉrrez, The Shapley-solidarity value for games with a coalition structure [J]. International Game Theory Review 15(01) (2013) 1350002.
+
+      \bibitem{41}J. C. Harsanyi, A bargaining model for cooperative n-person games [J]. Contributions to the Theory of Games 40 (1959) 325-355.
+
+      \bibitem{42}E. Calvo, Random marginal and random removal values [J]. International Journal of Game Theory 37(4) (2008) 533-563.
+
+      \bibitem{43}E. C. Ramón, E. Gutiérrez-López, The equal collective gains value in cooperative games [J]. International Journal of Game Theory 51(1) (2022) 249-278.
+
+      \bibitem{44}R. B. Myerson, Conference structures and fair allocation rules [J]. International Journal of Game Theory 9(3) (1980) 169-182.
+
+      \bibitem{45}E. Calvo, E. Gutierrez-Lopez, Axiomatic characterizations of the weighted solidarity values [J]. Mathematical Social Sciences 71 (2014) 6-11.
+
+      \bibitem{46}F. Kong, Y. F. Wang, How to understand carbon neutrality in the context of climate change? With special reference to China [J]. Sustainable Environment 8(1) (2022) 1-14.
+
+      \bibitem{47}X. L. Cao, X. S. Li, T. D. Breeze, Quantifying the carbon sequestration costs for pinus elliottii afforestation project of China greenhouse gases voluntary emission reduction program: A case study in Jiangxi province [J]. Forests 11(928) (2020) 1-18.
+
+      \bibitem{48}胡原, 成蓥, 曾维忠, 中国森林碳汇发展现状、存在问题与政策建议 [J]. 生态经济 38(02) (2022) 104-109.
+
+. . . . Hu. Y, Y. Cheng, W. Z. Zeng, Development status, problems and policy suggestions of forest carbon sink in China [J]. Ecological Economy 38(02) (2022) 104-109.
+
+      \bibitem{49}蒋金荷, 碳定价机制最新进展及对中国碳市场发展建议 [J]. 价格理论与实践 (02) (2022) 26-30+90.
+
+. . . . Jiang. J. H, Analysis of carbon pricing mechanism and proposals on the improvement of China's carbon market under carbon neutralization [J]. Price:Theory \& Practice (02) (2022) 26-30+90.
+
+      \bibitem{50}徐红, 赵金伟, 研发投入的绿色技术进步效应——基于城市层面技术进步方向的视角 [J]. 中国人口·资源与环境 30(02) (2020) 121-128.
+
+. . . . Xu. H, J. W. Zhao, The green technology advancement effect of R\&D investment: based on the perspective of technological progress at the city level [J]. China Population 2020, 30(02) (Resources and Environment) 121-128.
+
+      \bibitem{51}罗雷, 郭旸旸, 李寅明, 张增寿, 朱廷钰, 碳中和下水泥行业低碳发展技术路径及预测研究 [J]. 环境科学研究 35(06) (2022) 1527-1537.
+
+. . . . Luo. L, Y. Y. Guo, Y. M. Li, Z. S. Zhang, T. Y. Zhu, Research on low-carbon development technology path and forecast of cement industry under carbon neutral situation [J]. Research of Environmental Sciences 35(06) (2022)
+
